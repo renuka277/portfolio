@@ -360,7 +360,7 @@ function App() {
         <div className="project-links">
 
           <a
-            href="https://github.com/renuka277/Heart-Disease-Prediction-System"
+            href="https://github.com/renuka277/heart-disease-prediction-system-renuka"
             target="_blank"
             rel="noopener noreferrer"
             className="project-button"
